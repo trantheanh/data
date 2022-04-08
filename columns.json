@@ -1,0 +1,48 @@
+{
+  "cmeta": [
+    "enre",
+    "sub_genre",
+    "platform",
+    "ad_type",
+    "publisher_platform",
+    "ad_account_id",
+    "advertiser_id",
+    "web_app",
+    "targeting_type",
+    "targeting_gender",
+    "targeting_os",
+    "targeting_device",
+    "report_month",
+    "funnel",
+    "creative_type",
+    "target_cost_zero_flg",
+    "target_cpa_zero_flg",
+    "targeting_age_max_zero_flg",
+    "targeting_age_min_zero_flg",
+    "device"
+  ],
+  "qmeta": [
+    "carousel_num",
+    "w_mean",
+    "h_mean",
+    "target_cost",
+    "target_cpa",
+    "targeting_age_max",
+    "targeting_age_min"
+  ],
+  "text": [
+    "headline",
+    "long_headline",
+    "description",
+    "ocr_description",
+    "responsive_headline",
+    "responsive_description",
+    "expanded_headline",
+    "expanded_description",
+    "path",
+    "search_term"
+  ],
+  "creative": [
+    "path_creative"
+  ]
+}
